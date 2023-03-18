@@ -34,3 +34,5 @@ Follow the [language/documentation/tutorial](./language/documentation/tutorial/R
 ## License
 
 Move is licensed as [Apache 2.0](https://github.com/move-language/move/blob/main/LICENSE).
+
+THX
